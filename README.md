@@ -1,2 +1,5 @@
 # Alfian-Eryan-Dika
-study rpl
+<?
+  echo  "NIM    : 10114286" ;
+  echo  "Nama   : AlfianEryanDika"  ;
+  
